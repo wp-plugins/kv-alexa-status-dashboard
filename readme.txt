@@ -11,7 +11,7 @@ A simple wordpress plugin to get your Wordpres CMS ALexa Rank(global and Local),
 
 A simple wordpress plugin to get your Wordpres CMS ALexa Rank(global and Local), Backlink, and reach. 
 
-If you want to rework with the code, fine take a look at here before start usging this code, It will be helpful to work with your own project.<a href="http://kvcodes.com/2014/05/hide-plugins-users-wordpress/" target="blank" > Kvcodes.com </a> 
+If you want to rework with the code, fine take a look at here before start usging this code, It will be helpful to work with your own project.<a href="http://kvcodes.com/2014/05/wordpress-alexa-backlink-rank-reach/" target="blank" > Kvcodes.com </a> 
 
 == Features ==
 
