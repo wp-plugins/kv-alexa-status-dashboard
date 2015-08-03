@@ -2,8 +2,8 @@
 /*
 Plugin Name: KV Alexa Dashboard
 Plugin URI: http://kvcodes.com
-Description: A simple wordpress plugin to get your Wordpres CMS ALexa Rank(global and Local), Backlink, and reach. 
-Version: 1.0
+Description: A simple wordpress plugin to get your Wordpres CMS ALexa Rank(global and Local), Backlink, and reach. <a href="http://www.kvcodes.com" target="_blank" > Read more </a> 
+Version: 1.1
 Author: kvvaradha
 Author URI: http://profiles.wordpress.org/kvvaradha
 */
